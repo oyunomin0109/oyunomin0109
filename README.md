@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 とある鯖向けに教える用のpluginを載っけてます  
+クソコードしかあげないと思います
 <!--
 **oyunomin0109/oyunomin0109** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
